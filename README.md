@@ -1,2 +1,2 @@
-# side
-사이드
+# home
+home
